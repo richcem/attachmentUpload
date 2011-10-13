@@ -1,7 +1,9 @@
 /**
+ * @license
+ * 
  * 上传附件插件
  * 
- * @param {Object} jQuery
+ * Date: @DATE
  */
 (function($){
 	$.oray = $.oray || {version: '@VERSION'};
